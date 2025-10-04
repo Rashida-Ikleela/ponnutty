@@ -1,0 +1,65 @@
+body{
+background-color: rgb(193, 193, 224);
+
+}
+
+h1{
+color:brown;
+
+}
+p{
+color: brown;
+background-color: azure;
+
+}
+h2{
+
+color: rgb(193, 10, 40);
+}
+table{
+    border: 1px solid red
+    border:collapse:collapse;
+    background-color:pink;
+}
+
+th,td{
+    text-align: left ;
+    padding:20px;
+}
+th{
+    text-align:centre;
+    background-color:rgb(232, 147, 161);
+    color: brown;
+}
+caption{
+  font-weight:bolder;
+}
+.vegetable{
+    background-color: rgb(192, 222, 147);
+    color:black;
+    text-align: center;
+}
+.fruit{
+    background-color: rgb(215, 219, 122);
+    color: rgb(231, 0, 0);
+}
+#veg1{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+#veg2{
+    background-color:white;
+    text-align: center;
+    color:black;
+}
+#fruit1{
+background-color:red;
+    text-align: center;
+    color:black;
+}
+
+
+
+}
+
